@@ -1,4 +1,4 @@
-package org.example.hapbeehotel_backend;
+package com.java.hapbeehotel_backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
